@@ -53,7 +53,7 @@ const Home = () => {
               marginTop: "1rem",
             }}
           >
-            Your App Name
+            CHARAN'S URL SHORTNER
           </Title>
 
           <Text
